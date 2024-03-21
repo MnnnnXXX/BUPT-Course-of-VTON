@@ -11,7 +11,11 @@
 ## DataSets：
 1、[**VITON-HD**](https://github.com/shadow2496/VITON-HD)
 
+白色背景模特图的单件单品试衣（上衣）
+
 2、[**DressCode**](https://github.com/aimagelab/dress-code)
+
+和VITON-HD一样是白色背景模特图的单件单品试衣的benchmark。但是Dress Code同时包括了上衣，下装和裙子三个品类，可以更加完善的验证虚拟试衣算法的有效性。
 
 ## Papers:
 
@@ -23,6 +27,7 @@
 - 无'''train code'''
 - sketch & prompt & image & keypoints
 - 测试结果如下：
+
   
 
 2、StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
@@ -43,6 +48,7 @@
 
 - 无'''train code'''
 - 测试结果如下：
+  
 
 
 4、OOTDiffusion
@@ -53,3 +59,10 @@
 - 无'''train code'''
 - 测试结果如下：
 
+
+
+## TODO
+- [ ] 确定模型
+- [ ] 爬数据
+- [ ] 训练模型
+      
