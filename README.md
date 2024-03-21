@@ -7,7 +7,8 @@
   
   数媒2021
   
-  
+## [**A Curated List of Awesome Virtual Try-on (VTON) Research!**](https://github.com/minar09/awesome-virtual-try-on)
+
 ## DataSets：
 1、[**VITON-HD**](https://github.com/shadow2496/VITON-HD)
 
