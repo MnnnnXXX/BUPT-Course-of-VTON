@@ -10,14 +10,18 @@
 2、[**DressCode**](https://github.com/aimagelab/dress-code)
 
 ##Papers:
+
 1、Multimodal Garment Designer: Human-Centric Latent Diffusion Models for Fashion Image Editing
+
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2304.02051.pdf)
 [![GitHub Stars](https://img.shields.io/github/stars/aimagelab/multimodal-garment-designer?style=social)](https://github.com/aimagelab/multimodal-garment-designer)
 
 2、StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
+
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2312.01725.pdf)
 [![GitHub Stars](https://img.shields.io/github/stars/rlawjdghek/StableVITON?style=social)](https://github.com/rlawjdghek/StableVITON?tab=readme-ov-file)
 
 3、Person Image Synthesis via Denoising Diffusion Model
+
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2211.12500.pdf)
 [![GitHub Stars](https://img.shields.io/github/stars/ankanbhunia/PIDM?style=social)](https://github.com/ankanbhunia/PIDM)
