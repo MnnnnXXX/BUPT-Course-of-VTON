@@ -47,7 +47,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2211.12500.pdf)
 [![GitHub Stars](https://img.shields.io/github/stars/ankanbhunia/PIDM?style=social)](https://github.com/ankanbhunia/PIDM)
 
-- 无'''train code'''
+- 含'''train code'''
 - 测试结果如下：
   
 
@@ -59,6 +59,7 @@
 
 - 无'''train code'''
 - 测试结果如下：
+！[PIDM](https://imgur.com/Id7jTLa)
 
 
 
