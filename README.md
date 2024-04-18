@@ -14,6 +14,8 @@
 
 白色背景模特图的单件单品试衣（上衣）
 
+已实现复现任务
+
 2、[**DressCode**](https://github.com/aimagelab/dress-code)
 
 和VITON-HD一样是白色背景模特图的单件单品试衣的benchmark。但是Dress Code同时包括了上衣，下装和裙子三个品类，可以更加完善的验证虚拟试衣算法的有效性。
@@ -27,7 +29,6 @@
 
 - 无'''train code'''
 - sketch & prompt & image & keypoints
-- 测试结果如下：
 
   
 
@@ -38,7 +39,6 @@
 
 - 含'''train code'''
 - sketch & prompt & image & keypoints
-- 复现结果如下：
   
 
 
@@ -48,7 +48,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/ankanbhunia/PIDM?style=social)](https://github.com/ankanbhunia/PIDM)
 
 - 含'''train code'''
-- 测试结果如下：
   
 
 
@@ -61,7 +60,19 @@
 - 测试结果如下：
 ！[PIDM](https://imgur.com/Id7jTLa)
 
+## Models：
+1、虚拟试衣：
 
+StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2312.01725.pdf)
+[![GitHub Stars](https://img.shields.io/github/stars/rlawjdghek/StableVITON?style=social)](https://github.com/rlawjdghek/StableVITON?tab=readme-ov-file)
+
+2、生成新中式服装：
+
+Lora/GAN
+
+To be continued
 
 ## TODO
 - [x] 确定模型
