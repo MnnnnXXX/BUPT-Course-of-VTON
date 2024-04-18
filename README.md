@@ -16,6 +16,9 @@
 
 已实现复现任务
 
+包含：
+agnostic-mask、agnostic-v3.2、cloth_mask、gt_cloth_warped_mask、image-densepose、image-parse-agnostic-v3.2、image-parse-v3、openpose_img、openpose_json
+
 2、[**DressCode**](https://github.com/aimagelab/dress-code)
 
 和VITON-HD一样是白色背景模特图的单件单品试衣的benchmark。但是Dress Code同时包括了上衣，下装和裙子三个品类，可以更加完善的验证虚拟试衣算法的有效性。
